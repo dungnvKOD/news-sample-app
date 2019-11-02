@@ -1,4 +1,6 @@
 # Android News Clean Architecture
+# FROM https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa <DUNG KOD>
+
 
 [![CircleCI](https://circleci.com/gh/rakshit444/news-sample-app/tree/master.svg?style=svg)](https://circleci.com/gh/rakshit444/news-sample-app/tree/master)  [![Kotlin](https://kotlin.link/awesome-kotlin.svg)](https://kotlinlang.org/)  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
